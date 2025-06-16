@@ -1,0 +1,1 @@
+streamlit run rag_pdf_simple.py

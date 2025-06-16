@@ -1,0 +1,9 @@
+openai
+torch
+transformers
+chromadb
+streamlit
+openai
+dotenv
+PyPDF2
+uuid
