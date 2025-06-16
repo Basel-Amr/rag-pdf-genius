@@ -1,9 +1,7 @@
+streamlit
 openai
 torch
 transformers
 chromadb
-streamlit
-openai
-dotenv
+python-dotenv
 PyPDF2
-uuid
